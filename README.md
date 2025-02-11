@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Frontend Developer  | AI Enthusiast</h3>
 
 ---
-> *"Building scalable solutions, one line of code at a time."*
+> *"Crafting seamless digital experiences with every line of code 🚀"*
 
 ### 🏫 **About Me**
 - 🎓 Currently pursuing **B.Tech in Computer Science** at **Ramaiah University of Applied Sciences**.
