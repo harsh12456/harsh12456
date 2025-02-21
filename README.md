@@ -11,7 +11,7 @@
 - 🎓 Pursuing **B.Tech in Computer Science** at **Ramaiah University of Applied Sciences**.
 - 💡 Passionate about **Frontend Development** and **AI**.
 - ⚡ Always learning and adapting to new technologies.
-- 🔥 Currently exploring **Node.js** and **Express**.
+- 🔥 Currently exploring **Next.js** and **Express**.
 
 ---
 
@@ -30,7 +30,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
 
 #### ⚙️ **Backend & Databases:**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![Next.js](https://img.shields.io/badge/-Next.js-339933?style=flat&logo=next.js&logoColor=white) 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 
